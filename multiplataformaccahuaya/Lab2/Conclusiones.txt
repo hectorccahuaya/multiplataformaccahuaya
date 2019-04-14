@@ -1,0 +1,6 @@
+•	Conclusiones
+o	Un componente puede ser creado para dos fines, el primero seria un componente de presentación que mayormente retorna un pedazo de HTML, y el segundo es un componente funcional que recibe un props y este es utilizado en este componente como un parámetro.
+o	En el componente cuando se quiere crear una variable se necesita crear dentro del state, en esta parte se reciben los props
+o	Un componente es muy importante ya que es reusable en varias partes, solo es necesario invocarla y ya tenemos una vista.
+o	Para importar un Componente es necesario especificar la carpeta y el nombre del componente.
+o	Un componente tiene que tener importado React,{Component} from ‘react’, también tiene que estar nombrando el nombre del componente exportando a Component, solo así era reconocido como componente.

@@ -1,0 +1,6 @@
+•	Conclusiones
+o	La aplicación de componentes en REACT nos permite hacer mucho más fácil la programación y más optimizada ya que reutilizamos los componentes solo dándole los parámetros.
+o	Los PROPS no son alterables, vienen a ser los datos brindados a los componentes.
+o	Los STATE son aquellas características que son únicas del componente, estas mayormente son alteradas en el trascurso de la ejecución del componente.
+o	En este caso los componentes pueden recibir varios datos y estos ser procesados en su propio campo y como resultado podemos retornar vistas.
+o	Agregamos el componente que retornara una vista dentro de una etiqueta View para que todo lo retornado sea agregado dentro de esta vista, es muy importante también tener en cuenta como es la interpolación de parámetros PROPS y STATE dentro de una etiqueta TEXT.

@@ -1,0 +1,7 @@
+•	Conclusiones
+o	React js es una librería de JavaScript el cual nos facilita el desarrollo interfaces de usuario.
+o	React js hace uso de la programación orientada a componentes, con el fin de crear interfaz.
+o	Un componente es una manera de segmentar código por pequeñas partes de esta manera se convierten en reusables.
+o	Un componente puede ser creado de dos maneras, la primera es la Functional Components  y Class Components
+o	Mediante una función de toda la vida Stateless components, son aquellos que requieren un parámetro llamado props.
+o	Mediante una clase Class Components, no reciben parámetros, tienen acceso a métodos de los componentes y requiere el uso de this para acceder a el state y las props.

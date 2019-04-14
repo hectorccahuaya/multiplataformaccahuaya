@@ -1,0 +1,7 @@
+•	Conclusiones
+o	FlatList tiene varios métodos que pertenecen a esta herramienta, uno de los más utilizados es la adaptación de la cámara para evitar que el teclado tape el campo de texto.
+o	Axios no solo sirve para hacer peticiones Ajax sino también nos da la facilidad de gestionar la capa de presentación, en este caso hacemos una petición GET a la página para recibir información en formato JSON.
+o	FlatList nos permitió listar nuestros datos en forma simple y plana.
+o	Un FlatList requiere keyExtractor este permite que la lista use la id para las teclas de acción, caso contrario la aplicación funcionaria con un bajo rendimiento.
+o	Los documentos JSON son utilizados mayormente para manipulación de datos en una forma simple y ligera, este tipo de documentos son muy utilizados en el envío de datos simples ya que son muy fáciles de interpretar por una aplicación.
+o	Actualmente Axios es una de las herramientas que está remplazando a JQuery por su simplicidad de manejo.

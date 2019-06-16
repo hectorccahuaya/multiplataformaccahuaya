@@ -1,0 +1,6 @@
+Conclusiones:
+•	react-native-floating-action es un paquete el cual nos permitió agregar botones flotantes, gracias a ellos podemos botones desplegables y agregar acciones a estos botones, sin duda una paquete muy útil y llamativa.
+•	También importamos el paquete para poder utilizar los mapas, en este caso requiere la meta-data con su respectiva KEY de Google la cual se puede obtener gratis para pruebas.
+•	Un punto muy interesante es agregarle estilos personalizados al mapa, mediante un customStyle le damos varias características al mapa para que se vea mas adecuado dependiendo del tipo de aplicación.
+•	También implementamos métodos para obtener mi posición, agregar marcador,etc.
+•	Una vez mas se ve la importancia de como emplear el método  componentDidMount() para que la posición pueda ser actualizada cada vez que nos movemos.

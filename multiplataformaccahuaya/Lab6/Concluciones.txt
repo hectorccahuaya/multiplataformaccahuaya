@@ -1,0 +1,6 @@
+•	Importamos Gesture Handler ayuda para evitar limitaciones de rendimiento del sistema de respuesta de gestos en React Native.
+•	React navigation nos permite contar con una facilidad al momento de navegar por las vistas de una manera simple y ampliable.
+•	Trabajar React navigation es importar las vistas en el App.js para que puedan ser llamadas en cualquier componente solo mediante su identificador.
+•	El método navigate recibe como parámetro el identificador de la vista, esto facilita mucho al momento de crear métodos que permitan movernos entre las vistas.
+•	Al momento de importar las vistas en el App.js se tiene que ser muy estricto en la dirección caso contrario no se encontrara el componente.
+•	En el App.js también puede agregarse menús y taps inferiores agregando sus identificadores de vista.

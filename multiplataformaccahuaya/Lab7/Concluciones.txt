@@ -1,0 +1,7 @@
+•	Conclusiones	
+•	Como en el anterior laboratorio se importó la librería de navegación para así aprovechar de las ventajas de la navegación por identificadores desde el App.js.
+•	La librería ASyngStorage nos permitió almacenar el token para el respectivo inicio de sesión.
+•	AXIOS nos permite establecer una comunicación con información en formato JSON, en este caso utilizamos esta librería para obtener información de nuestra API para el respectivo logeo , es necesario escribir la dirección de nuestra api seguidamente del método que utilizaremos.
+•	Las pruebas se realizaron mediante POSTMAN una herramienta muy útil al momento de testear nuestro api.
+•	Un punto muy importante que resaltar es como manipulación la información obtenida por AXIOS y como damos información a este método al momento de realizar un registro.
+•	Darle estructura y estilos a la vista hace que la aplicación sea más dinámica y gracias a react este punto se hace mucho más fácil.

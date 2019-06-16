@@ -1,0 +1,6 @@
+Conclusiones:
+•	Importamos el paquete md5 para luego hashear el email cuando hacemos nuestra petición.
+•	Importamos el paquete react-native-elements (Gran variedad de elementos para agregar a nuestra vista) el cual nos permitió utilizar la etiqueta Avatar, esta etiqueta muestra una imagen en formas geométricas.
+•	Agregamos toda nuestra vista a un ScrollView para poder subir y bajar sin problemas de tamaño.
+•	En este laboratorio se vio la gran cantidad de estilos que se pueden agregar a nuestra vista, dándole colores, padding correctamente para tener un menú agradable.
+•	Un punto muy importante es como se manejo la información del usuario con el que se Logeo a otro componente.

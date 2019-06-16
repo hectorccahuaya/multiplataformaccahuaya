@@ -1,0 +1,6 @@
+Conclusiones:
+•	react-native-settings-list es un paquete para trabajar con react-native que facilita la implementacionde listas y personalización de estas, estas son utilizadas para vistas de configuración.
+•	Para tener uso de este paquete ya mencionado tenemos que instanciarlo en el componente luego mencionar que tipo de SettingsList se va a utilizar
+•	 Tenemos que tener en cuenta las diferentes características que cada uno de estos puede tener.
+•	Un punto que cabe resaltar es que se le puede agregar un método onPress a estas etiquetas.
+•	Al momento de mostrar el listado de datos de una API se vio la importancia de crear un botón para mostrar más información, esto se logró gracias al componentDidMount esta a la escucha de la actualización de información del método loadMoreData.

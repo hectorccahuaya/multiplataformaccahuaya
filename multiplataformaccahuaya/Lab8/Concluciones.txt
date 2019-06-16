@@ -1,0 +1,6 @@
+Conclusiones: 
+•	Un punto muy importante en este laboratorio en el uso del método componentDidMount para que actualice apenas note un cambio.
+•	SocketIOClient escucha al servidor por ello requiere la dirección y el puerto donde el API está corriendo.
+•	En este caso el SoketIO esta en el lado de la aplicación para que reciba información y envíe información a la API , y la Api esta a la escucha para enviar a todos los dispositivos dicha información.
+•	En este laboratorio instalamos las dependencias de una interfaz de usuario Chat la cual nos facilita en gran parte el laboratorio.
+•	En esta parte vemos que el servidor hace gran gasto de recursos ya que mientras mas usuarios estén conectados el servidor estará procesando mas información.

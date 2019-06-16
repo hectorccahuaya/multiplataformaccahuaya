@@ -1,0 +1,6 @@
+Conclusiones:
+•	Multer es un middleware el cual nos permitió cargar y almacenar la información mandada por nuestro proyecto en react-native.
+•	Ahora Gracias a Multer en el lado del servidor, al momento de hacer la escucha se puedo cargar la información mandada por el metodo PUT del programa, los parámetros que maneja Multer son necesariamente la ubicación donde se almacenara la información y el nombre del documento, entre otros como el tamaño , el path, etc.
+•	Para el uzo de la cámara principalmente requiere los permisos y una vista con el button para la captura.
+•	Para almacenar la imagen se creo un método el cual primeramente le da formato y nombre para luego mediante axios enviar la data al servidor.
+•	Un punto a agregar es cuando almacena la información el servidor en una carpeta, el documento no contiene el formato, pero esto se soluciona concadenando .jpg al momento de almacenar la información
